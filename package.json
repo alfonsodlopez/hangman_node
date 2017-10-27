@@ -1,0 +1,32 @@
+{
+  "name": "hangman_node",
+  "version": "1.0.0",
+  "description": "Hangman in node with unnecessarily difficult implementation",
+  "main": "hangman.js",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node hangman.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfonsodlopez/hangman_node.git"
+  },
+  "keywords": [
+    "hangman",
+    "node",
+    "js",
+    "javascript",
+    "constructors"
+  ],
+  "author": "Alfonso Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfonsodlopez/hangman_node/issues"
+  },
+  "homepage": "https://github.com/alfonsodlopez/hangman_node#readme"
+}
